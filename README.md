@@ -1,9 +1,9 @@
-![image](https://github.com/hhxdi/hpoc/assets/72481638/f66a9a4a-3b94-4d7a-9625-4c89fca71867)# hpoc
+# hpoc
 简易漏洞测试
 
-'''cmd
+```
 hpoc.py -h
-'''
+```
 ![image](https://github.com/hhxdi/hpoc/assets/72481638/7aa369ad-2ce1-4532-8dc3-6cad91177aac)
 
 直接运行hpoc 默认使用当前目录的1.txt和url.txt
