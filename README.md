@@ -14,4 +14,8 @@ hpoc.py -h
 url.txt 每行一个url 
 ![image](https://github.com/hhxdi/hpoc/assets/72481638/6019bc89-08bb-479c-a540-7a91b8d89838)
 
+运行结果：
+![image](https://github.com/hhxdi/hpoc/assets/72481638/ae5bcbcd-7990-427d-87ee-d5faeeda7f03)
+
 其他命令：hpoc.py -u xx.csv  xx.csv 支持fofa和hunter的导出结果 其他csv在url的那栏改成link也可以
+需要的库在requirement.txt
